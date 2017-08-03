@@ -8,7 +8,7 @@
 
 The theme is based on the wonderfully made [oskarkrawczyk](https://github.com/oskarkrawczyk/honukai-iterm-zsh) theme.
 
-1. Drop [`yinwoods.zsh-theme`](https://raw.githubusercontent.com/yinwoods/honukai-iterm/master/yinwoods.zsh-theme) into the `~/.oh-my-zsh/themes/` directory
+1. Drop [`yinwoods.zsh-theme`](https://raw.githubusercontent.com/yinwoods/yinwoods-iterm-zsh/master/yinwoods.png) into the `~/.oh-my-zsh/themes/` directory
 2. Change the theme variable name to `ZSH_THEME="yinwoods"` in `~/.zshrc`
 3. Reload ZSH with `source ~/.zshrc`
 
