@@ -1,23 +1,21 @@
-## Honukai theme and colors for Oh My ZSH and iTerm by [@oskar](https://twitter.com/oskar)
+## Yinwoods theme and colors for Oh My ZSH and iTerm by [@yinwoods](https://weibo.com/yinwoods)
 
-![](https://raw.githubusercontent.com/oskarkrawczyk/honukai-iterm/master/honukai.png)
-
-[See how it looks with blur and transparency](https://v.usetapes.com/SDGzCBkHh4) (video).
+![](https://raw.githubusercontent.com/yinwoods/honukai-iterm/master/yinwoods.png)
 
 ## Installation
 
 ### Theme
 
-The theme is based on the wonderfully made [ys](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/ys.zsh-theme) theme from the official [oh-my-zsh repo](https://github.com/robbyrussell/oh-my-zsh).
+The theme is based on the wonderfully made [oskarkrawczyk](https://github.com/oskarkrawczyk/honukai-iterm-zsh) theme.
 
-1. Drop [`honukai.zsh-theme`](https://raw.githubusercontent.com/oskarkrawczyk/honukai-iterm/master/honukai.zsh-theme) into the `~/.oh-my-zsh/themes/` directory
-2. Change the theme variable name to `ZSH_THEME="honukai"` in `~/.zshrc`
+1. Drop [`yinwoods.zsh-theme`](https://raw.githubusercontent.com/yinwoods/honukai-iterm/master/yinwoods.zsh-theme) into the `~/.oh-my-zsh/themes/` directory
+2. Change the theme variable name to `ZSH_THEME="yinwoods"` in `~/.zshrc`
 3. Reload ZSH with `source ~/.zshrc`
 
 ### Colors
 
 1. Open **Preferences** pane on the **Profiles** tab in iTerm
-2. Switch to the **Colors** tab and import the [`honukai.itermcolors`](https://raw.githubusercontent.com/oskarkrawczyk/honukai-iterm/master/honukai.itermcolors) (drop-down in the lower right corner)
+2. Switch to the **Colors** tab and import the [`yinwoods.itermcolors`](https://raw.githubusercontent.com/yinwoods/honukai-iterm/master/yinwoods.itermcolors) (drop-down in the lower right corner)
 
 **NOTE**: You'll need at least iTerm2.9-nightly (aka 3.0)
 
@@ -29,7 +27,7 @@ There's a bunch of settings you might want to change in your profile in order to
 
 **Cursor**
 
-- Set to **Vertical**
+- Set to **Underline**
 
 **Font**
 
